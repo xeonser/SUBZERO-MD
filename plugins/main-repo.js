@@ -297,7 +297,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > Don't forget to star & fork the repo🌟🍴
 
-https://github.com/mrfrank-ofc/SUBZERO
+https://github.com/mrfrank-ofc/SUBZERO-MD
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
